@@ -13,3 +13,48 @@ oh_modules/
 # 系统文件
 .DS_Store
 Thumbs.db
+# 日志
+*.log
+logs/
+
+
+# IDE - DevEco Studio
+.idea/
+.hi/
+build/
+out/
+cache/
+tmp/
+devecolog/
+.deveco/
+
+# 鸿蒙编译产物
+oh_modules/.cache/
+build-cache/
+hvigor/
+hvigorfile.ts/node_modules/
+node_modules/
+.hvigor/
+oh-package-lock.json
+hvigor-output/
+
+# 打包文件
+*.hap
+*.app
+*.zip
+*.rar
+*.7z
+
+# 本地环境配置
+.env
+.local
+*.local
+
+# vscode
+.vscode/
+*.code-workspace
+
+# 临时文件
+*.swp
+*.swo
+*~
