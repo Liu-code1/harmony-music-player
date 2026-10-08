@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Royal Music - 你的专属音乐播放器"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Royal Music 主程序"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Royal Music"
+    },
+    {
+      "name": "app_name",
+      "value": "Royal Music"
+    },
+    {
+      "name": "internet_reason",
+      "value": "需要访问网络以播放在线音乐"
+    },
+    {
+      "name": "tab_discover",
+      "value": "发现"
+    },
+    {
+      "name": "tab_search",
+      "value": "搜索"
+    },
+    {
+      "name": "tab_library",
+      "value": "音乐库"
+    },
+    {
+      "name": "tab_profile",
+      "value": "我的"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+/node_modules
+/oh_modules
+/.preview
+/build
+/.cxx
+/.test
+# 编译缓存
+/.hvigor/
+/.idea/
+entry/build/
+oh_modules/
+
+# 系统文件
+.DS_Store
+Thumbs.db
